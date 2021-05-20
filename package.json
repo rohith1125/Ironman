@@ -1,0 +1,50 @@
+{
+    "name": "Jarvis",
+    "displayName": "IronMan",
+    "description": "Inspired by Ironman",
+    "version": "1.0.4",
+    "publisher": "SaiRohith",
+    "icon": "ironman.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rohith1125/rand"
+    },
+    "galleryBanner": {
+        "color": "#d20117",
+        "theme": "dark"
+      },
+      
+      "keywords": [
+        "VSCode",
+        "Themes",
+        "IronMan",
+        "Avengers",
+        "Marvel",
+        "One Dark Pro",
+        "Github Dark Theme",
+        "Sublime Dark Material Theme",
+        "SynthWave",
+        "Palenight",
+        "Monokai",
+        "Shades of Purple",
+        "Dracula",
+        "Outrun",
+        "Night Owl",
+        "One Dark Pro"
+      ],
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "IronMan",
+                "uiTheme": "vs-dark",
+                "path": "./themes/IronMan-color-theme.json"
+            }
+        ]
+    }
+}
